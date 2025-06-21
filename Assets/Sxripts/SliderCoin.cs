@@ -26,11 +26,4 @@ public class SliderCoin : MonoBehaviour
         coinCount += value;
         coinSlider.value = coinCount;
     }
- void Update()
-    {
-        if(coinCount == maxCoins)
-        {
-            SceneManager.LoadScene(1);
-        }
-    }
 }

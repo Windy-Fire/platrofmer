@@ -148,7 +148,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -162,7 +162,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -186,9 +186,9 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -1085,7 +1085,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rpg_icons_v1-Photoroom_0: -2518540790169280475
+      rpg_icons_v1-Photoroom_1: -6962032952325598932
+      rpg_icons_v1-Photoroom_10: 132334597374729586
+      rpg_icons_v1-Photoroom_11: -2477601416777840904
+      rpg_icons_v1-Photoroom_12: 5953784527785438876
+      rpg_icons_v1-Photoroom_13: -410156953721082633
+      rpg_icons_v1-Photoroom_14: -6473739069129546561
+      rpg_icons_v1-Photoroom_15: 4258583892033736726
+      rpg_icons_v1-Photoroom_16: 2622458371710806135
+      rpg_icons_v1-Photoroom_17: 1515388182270152554
+      rpg_icons_v1-Photoroom_18: 203941871237862527
+      rpg_icons_v1-Photoroom_19: -569297288926776686
+      rpg_icons_v1-Photoroom_2: 3459667695395229582
+      rpg_icons_v1-Photoroom_20: 4149017352384823294
+      rpg_icons_v1-Photoroom_21: 105526302465025433
+      rpg_icons_v1-Photoroom_22: 4633656885603806720
+      rpg_icons_v1-Photoroom_23: 7795133894002829628
+      rpg_icons_v1-Photoroom_24: 3590452057405970547
+      rpg_icons_v1-Photoroom_25: -8220993289739078256
+      rpg_icons_v1-Photoroom_26: -4594050777442386
+      rpg_icons_v1-Photoroom_27: 1873483545759666996
+      rpg_icons_v1-Photoroom_28: -560053567192003680
+      rpg_icons_v1-Photoroom_29: -2227891917220101163
+      rpg_icons_v1-Photoroom_3: -8259698675260604176
+      rpg_icons_v1-Photoroom_30: 2539775365447105088
+      rpg_icons_v1-Photoroom_31: -7443795976141721673
+      rpg_icons_v1-Photoroom_32: 6528273347409086535
+      rpg_icons_v1-Photoroom_33: 8276746789174829340
+      rpg_icons_v1-Photoroom_34: 8737692191624066485
+      rpg_icons_v1-Photoroom_35: -8463471641526114150
+      rpg_icons_v1-Photoroom_36: -2733577351347864903
+      rpg_icons_v1-Photoroom_37: -4195996545738312881
+      rpg_icons_v1-Photoroom_4: -5834866050699527859
+      rpg_icons_v1-Photoroom_5: -4154897763415500336
+      rpg_icons_v1-Photoroom_6: -1317221942363031727
+      rpg_icons_v1-Photoroom_7: -4885904993919091581
+      rpg_icons_v1-Photoroom_8: 477110142016391719
+      rpg_icons_v1-Photoroom_9: 5683201542024601839
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
