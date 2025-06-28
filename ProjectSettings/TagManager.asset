@@ -8,6 +8,8 @@ TagManager:
   - Key
   - Ground
   - Enemy
+  - RightHand
+  - Secret
   layers:
   - Default
   - TransparentFX
