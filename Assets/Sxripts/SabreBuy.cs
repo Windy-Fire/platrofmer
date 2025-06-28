@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class SabreBuy : MonoBehaviour
 {
-    public int price = 4;
+    public int price = 5;
         void Start()
     {
         Debug.Log("Sabre Buy script started.");

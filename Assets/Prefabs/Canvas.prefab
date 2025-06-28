@@ -269,7 +269,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -996.95, y: 753}
+  m_AnchoredPosition: {x: -1650.95, y: 1051}
   m_SizeDelta: {x: 538.1, y: 58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &7509832308212476379
@@ -490,7 +490,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 362.59998, y: 272.74857}
+  m_AnchoredPosition: {x: 690.495, y: 408.50247}
   m_SizeDelta: {x: 539.01, y: 87.665}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8562596449704840290
@@ -1533,7 +1533,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -176.2, y: 360.42004}
+  m_AnchoredPosition: {x: 150.5254, y: 496.16534}
   m_SizeDelta: {x: 540.9291, y: 87.66931}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4503514582660167976
@@ -1917,7 +1917,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -510.5, y: 286}
+  m_AnchoredPosition: {x: -838, y: 436}
   m_SizeDelta: {x: 244, y: 92}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2197922322974535359
@@ -2468,7 +2468,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -552.75, y: 160}
+  m_AnchoredPosition: {x: -880, y: 298.41602}
   m_SizeDelta: {x: 160, y: 160}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3827487099104195250
@@ -2788,7 +2788,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 362.59998, y: 360.42}
+  m_AnchoredPosition: {x: 690.495, y: 496.16745}
   m_SizeDelta: {x: 539.01, y: 87.665}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &9017650542113242173
@@ -3483,7 +3483,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -177.36955, y: 272.75073}
+  m_AnchoredPosition: {x: 150.5254, y: 408.50458}
   m_SizeDelta: {x: 540.9291, y: 87.66931}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7298505488288543579
@@ -4068,7 +4068,7 @@ MonoBehaviour:
 
     Kill next enemy you touch
 
-    4 coins'
+    5 coins'
 --- !u!1 &7451574954963317363
 GameObject:
   m_ObjectHideFlags: 0
@@ -4180,7 +4180,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -309.42798, y: 190}
+  m_AnchoredPosition: {x: -633, y: 328.41602}
   m_SizeDelta: {x: 320, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4311061148062726188

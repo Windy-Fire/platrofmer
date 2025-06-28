@@ -155,8 +155,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -90, y: -49}
+  m_SizeDelta: {x: 1608, y: 1382}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &339910103
 MonoBehaviour:
@@ -1512,10 +1512,10 @@ MonoBehaviour:
   m_Text: "Meat restores 1 HP\nShield creates 2 spare points to absorb damage\nThe
     health pot heals you until the health bar is full (no matter how many health
     points must be regained)\nA wooden knife deals 1 damage to the enemy\nA devil's
-    sabre kills him (with 1 coin discount)\nThe sword of a bloodsucker deals 2 damage
-    and steals one healthpoint for you\nCharm of haste doubles your run speed\nSlimes
-    have 5 HP\nCharm of bunny hop doubles your jump force\n\t\tYou will find this
-    all in a shop description, so don't worry to forget something."
+    sabre kills him\nThe sword of a bloodsucker deals 2 damage and steals one healthpoint
+    for you\nCharm of haste doubles your run speed\nCharm of bunny hop doubles your
+    jump force\nSlimes have 5 HP\n\t\tYou will find this all in a shop description,
+    so don't worry to forget something."
 --- !u!222 &2060483810
 CanvasRenderer:
   m_ObjectHideFlags: 0
